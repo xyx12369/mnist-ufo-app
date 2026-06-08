@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.so
+# Model files are tracked
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.streamlit/secrets.toml
