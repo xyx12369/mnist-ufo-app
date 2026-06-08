@@ -100,7 +100,7 @@ with col2:
         st.pyplot(fig)
 
         # 显示预处理后的图像
-        with st.expander("🔍 查看模型"看到"的图像 (28×28)"):
+        with st.expander('🔍 查看模型"看到"的图像 (28×28)'):
             c1, c2 = st.columns(2)
             with c1:
                 st.markdown("**处理后图像 (28×28)**")
